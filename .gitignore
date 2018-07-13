@@ -1,6 +1,0 @@
-## ignore those files ##
-
-/venv/
-
-db.sqlite3
-.gitignore
